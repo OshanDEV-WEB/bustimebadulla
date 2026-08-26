@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://oshandev-web.github.io/sitemap.xml
+Sitemap: https://oshandev-web.github.io/buslk/sitemap.xml
